@@ -1,5 +1,10 @@
+## Created by Jordan Dubchak November 17/2017
+##
+## This bash script creates a data science project directory structure through the command line
+## and includes interactive user input (1 or 2 and absolute path) 
+
 ## establish interactive commands
-echo "For project set up, please type '1' or '2' to proceed to next step when prompted. Do you wish to continue?"
+echo "For project set up, please type 1 or 2 to proceed to next step when prompted. Do you wish to continue?"
 select yn in "Yes" "No"; do 
 	case $yn in 
 		Yes) 
