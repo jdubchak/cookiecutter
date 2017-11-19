@@ -53,3 +53,7 @@ Three (far more complex and thorough) cookie cutter projects are listed below.
 * [Cookiecutter by Audrey Roy Greenfeld](https://github.com/audreyr/cookiecutter)
 * [Cookie cookie by Nathan Urwin](https://github.com/tuxredux/cookie-cookie)
 * [Cookiecutter Data Science by drivendata](https://github.com/drivendata/cookiecutter-data-science)
+
+## Author
+
+Jordan Dubchak, November 2017. 
