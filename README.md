@@ -32,7 +32,7 @@ Note: All directories (excluding the project root) contain a `.gitkeep` file whe
 
 To use this script, clone the cookie cutter repo. 
 
-## Use
+## Usage
 
 This bash script can create your project within any existing folder on your local machine. User input is required at time of execution. Simply execute the following command on your command line and follow the prompts:
 
@@ -50,6 +50,6 @@ The `cookie_cutter.sh` example output is demonstrated in [`example_project`](htt
 
 Three (far more complex and thorough) cookie cutter projects are listed below.
 
-* [Cookie cutter by Audrey Roy Greenfeld](https://github.com/audreyr/cookiecutter)
-* [Cookie cutter by Nathan Urwin](https://github.com/tuxredux/cookie-cookie)
-* [Cookie cutter by drivendata](https://github.com/drivendata/cookiecutter-data-science)
+* [Cookiecutter by Audrey Roy Greenfeld](https://github.com/audreyr/cookiecutter)
+* [Cookie cookie by Nathan Urwin](https://github.com/tuxredux/cookie-cookie)
+* [Cookiecutter Data Science by drivendata](https://github.com/drivendata/cookiecutter-data-science)
