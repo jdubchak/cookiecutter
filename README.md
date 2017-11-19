@@ -10,24 +10,24 @@ The cookie cutter folder structure is outlined below.
 ```
 project root
 |
-|-- data   ## raw data folder 
+|-- data/   ## raw data folder 
 |
-|-- doc   ## all project text files 
+|-- doc/   ## all project text files 
 |
-|-- results   ## all tidy data sets and results (figures and tables)
+|-- results/   ## all tidy data sets and results (figures and tables)
 |
-|-- src   ## project source code 
+|-- src/   ## project source code 
 |
-|-- misc   ## this folder is intended for additional files related to the project, including correspondence with coworkers 
+|-- misc/   ## this folder is intended for additional files related to the project, including correspondence with coworkers 
 |
-|-- CITATION.md
+|-- CITATION 
 |
-|-- LICENSE.md
+|-- LICENSE 
 |
-|-- README.md 
+|-- README  
 ```
 
-Note: All directories (excluding the project root) contain a `.gitkeep` file when project structure is created.  
+Note: All directories (excluding the project root) contain a `.gitkeep` file when project structure is created. 
 
 
 ## Installation 
