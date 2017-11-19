@@ -5,7 +5,7 @@ This cookie cutter script creates the basic folder structure for a data science 
 ## Structure
 
 The cookie cutter folder structure is outlined below.
-`project root
+```project root
 |
 |-- data   ## raw data folder 
 |
@@ -22,6 +22,7 @@ The cookie cutter folder structure is outlined below.
 |-- LICENSE.md
 |
 |-- README.md 
+```
 
 Note: All directories (excluding the project root) contain a .gitkeep file when project structure is created.  
 
@@ -29,7 +30,9 @@ Note: All directories (excluding the project root) contain a .gitkeep file when 
 ## Installation and Use 
 
 To use this script, clone the cookie cutter repo. This bash script can create your project within any existing folder on your local machine. User input is required at time of execution. Simply execute the following command on your command line and follow the prompts:
+
 `$ sh cookie_cutter.sh` 
 
 Note: If your current directory is not the intended project root directory, the absolute path you wish to store your project must be specified when prompted. An example is shown below.
+
 `~/Documents/DataProjects` 
