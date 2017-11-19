@@ -5,7 +5,8 @@ This cookie cutter script creates the basic folder structure for a data science 
 ## Structure
 
 The cookie cutter folder structure is outlined below.
-```project root
+```
+project root
 |
 |-- data   ## raw data folder 
 |
