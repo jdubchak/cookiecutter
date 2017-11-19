@@ -1,4 +1,4 @@
-# ## establish interactive commands
+## establish interactive commands
 echo "For project set up, please type '1' or '2' to proceed to next step when prompted. Do you wish to continue?"
 select yn in "Yes" "No"; do 
 	case $yn in 
@@ -9,7 +9,7 @@ select yn in "Yes" "No"; do
 	esac
 done 
 
-# ## determine directory to contain project root 
+## determine directory to contain project root 
 echo "Is $PWD the directory you wish to contain your project?"
 select yn in "Yes" "No"; do
 	case $yn in
@@ -26,13 +26,13 @@ select yn in "Yes" "No"; do
 	esac
 done 
 
-# ## create project directory and move into it 
+## create project directory and move into it 
 echo "Please input the project name, without spaces"
 read proj_name
 mkdir $proj_name 
 cd $proj_name
 
-# ## get author's name 
+## get author's name 
 echo "Please input your name"
 read author_name
 
