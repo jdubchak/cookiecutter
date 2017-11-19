@@ -45,3 +45,11 @@ Note: If your current directory is not the intended project root directory, the 
 ## Example Output 
 
 The `cookie_cutter.sh` example output is demonstrated in [`example_project`](https://github.com/jdubchak/cookiecutter/tree/master/example_project).
+
+## Additional Cookie Cutter Projects
+
+Three (far more complex and thorough) cookie cutter projects are listed below.
+
+* [Cookie cutter by Audrey Roy Greenfeld](https://github.com/audreyr/cookiecutter)
+* [Cookie cutter by Nathan Urwin](https://github.com/tuxredux/cookie-cookie)
+* [Cookie cutter by drivendata](https://github.com/drivendata/cookiecutter-data-science)
