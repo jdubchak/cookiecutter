@@ -1,4 +1,4 @@
-## Created by Jordan Dubchak November 17/2017
+## Created by Jordan Dubchak November 2017
 ##
 ## This bash script creates a data science project directory structure through the command line
 ## and includes interactive user input (1 or 2 and absolute path) 
