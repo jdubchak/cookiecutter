@@ -21,9 +21,7 @@ project root
 |-- misc/   ## this folder is intended for additional files related to the project, including correspondence with coworkers 
 |
 |-- CITATION 
-|
 |-- LICENSE 
-|
 |-- README  
 ```
 
@@ -43,3 +41,7 @@ This bash script can create your project within any existing folder on your loca
 Note: If your current directory is not the intended project root directory, the absolute path you wish to store your project must be specified when prompted. An example is shown below.
 
 `~/Documents/DataProjects` 
+
+## Example Output 
+
+The `cookie_cutter.sh` example output is demonstrated in [`example_project`](https://github.com/jdubchak/cookiecutter/tree/master/example_project).
