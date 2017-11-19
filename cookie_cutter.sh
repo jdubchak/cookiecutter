@@ -8,9 +8,9 @@ echo "For project set up, please type 1 or 2 to proceed to next step when prompt
 select yn in "Yes" "No"; do 
 	case $yn in 
 		Yes) 
-			echo "yes"; break;;  
+			echo "Yes"; break;;  
 		No) 
-			echo "no"; break;; 
+			echo "You have chosen to exit this program."; exit;; 
 	esac
 done 
 
